@@ -20,7 +20,7 @@ Phần này là phần có lẽ đơn giản nhất khi có ngay trên log
 
 `PID`
 
-Phần này vào xem log Sercurity để xem nó đã sinh ra PID là bao nhiêu và căn cứ vào thời gian tấn công là 5h09p chiều
+Phần này vào xem log Sercurity để xem nó đã sinh ra PID là bao nhiêu, cái nào sinh ra powershell và căn cứ vào thời gian tấn công là 5h09p chiều
 
 ![image](https://github.com/hoanga2dtk68/KMACTF2023-lan1/assets/110059218/ef85f573-b88f-4702-aef7-5e1b8854914e)
 
